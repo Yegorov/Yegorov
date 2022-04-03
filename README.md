@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello 👋
+
+My name is **Artem**, and I'm 💎 backend developer.
 
 <!--
 **Yegorov/yegorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
