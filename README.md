@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is **Artem**, and I'm 💎 backend developer.
+My name is **Artem**, and I'm [💎](## "Ruby") backend developer.
 
 <!--
 **Yegorov/yegorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
