@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is **Artem Yegorov**, and I'm Ruby/Rails backend developer with 7+ years experience.
+My name is **Artem Yegorov**, and I'm senior Ruby/Rails backend developer with 7+ years experience.
 
 I am passionate developer with deep interest to create high-performance web applications. I specialize in Ruby On Rails and have experience working with various technologies and tools such as PostgreSQL, Elasticsearch, Redis, Docker. I really like to participate in open-source projects and finding straightforward solutions to complex problems.
 
@@ -38,6 +38,7 @@ You can reach me at [yegorov0725@yandex.com](mailto:yegorov0725@yandex.com)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yegorov&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Zerocracy yegorov badge](https://www.zerocracy.com/badge/604.svg)](https://www.zerocracy.com/cv/604)
 
 <!--
 **Yegorov/yegorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
