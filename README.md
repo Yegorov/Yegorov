@@ -32,7 +32,7 @@ I am passionate developer with deep interest to create high-performance web appl
 [capybara-sessionkeeper](https://github.com/kyamaguchi/capybara-sessionkeeper/pulls?q=is%3Apr+author%3AYegorov)
 
 
-**My articles:** [Blog](https://yegorov.github.io/posts/), [Dev.to](https://dev.to/yegorov/)
+**My articles:** [Notes](https://yegorov.github.io/notes/), [Blog](https://yegorov.github.io/posts/), [Dev.to](https://dev.to/yegorov/)
 
 You can reach me at [yegorov0725@yandex.com](mailto:yegorov0725@yandex.com)
 
