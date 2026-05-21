@@ -6,7 +6,7 @@ I am a passionate developer with a deep interest in building high-performance we
 
 **My projects:** [Awesome Ruby blogs](https://github.com/Yegorov/awesome-ruby-blogs), [Yadisk](https://github.com/Yegorov/yadisk)
 
-**My contributions:** [rails/rails](https://github.com/rails/rails/pulls?q=is%3Apr+is%3Aclosed+author%3AYegorov), [ruby/rake](https://github.com/ruby/rake/pulls?q=is%3Apr+is%3Aclosed+author%3AYegorov), [zerocracy/judges-action](https://github.com/zerocracy/judges-action/pulls?q=is%3Apr+is%3Aclosed+author%3AYegorov), and [more](/oss/).
+**My contributions:** [rails/rails](https://github.com/rails/rails/pulls?q=is%3Apr+is%3Aclosed+author%3AYegorov), [ruby/rake](https://github.com/ruby/rake/pulls?q=is%3Apr+is%3Aclosed+author%3AYegorov), [zerocracy/judges-action](https://github.com/zerocracy/judges-action/pulls?q=is%3Apr+is%3Aclosed+author%3AYegorov), and [more](https://yegorov.github.io/oss/).
 
 **My articles:** [Notes](https://yegorov.github.io/notes/), [Blog](https://yegorov.github.io/posts/), [Dev.to](https://dev.to/yegorov/)
 
